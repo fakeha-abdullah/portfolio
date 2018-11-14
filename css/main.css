@@ -47,7 +47,7 @@ header {
 } */
 
 .intro-1 {
-  font-size: 4em;
+  font-size: 3em;
   text-align: center;
   color: #02163f;
   text-transform: uppercase;
@@ -113,11 +113,11 @@ h3 {
   color: #111;
 }
 
-.about {
+.about-intro {
   background-color: #e5e5e5;
 }
 
-.about p {
+.about-intro p {
   font-family: Roboto,sans-serif;
   font-style: normal;
   font-weight: 300;
@@ -131,7 +131,7 @@ h3 {
 
 .embed {
   position: relative;
-  padding-bottom: 3rem;
+  padding-bottom: 4rem;
 }
 
 .embed__item {
@@ -196,6 +196,18 @@ h3 {
     text-align: center;
     padding-right: 1rem;
     padding-left: 1rem;
+  }
+
+  .about p {
+    text-align: left;
+  }
+
+  .about-intro p {
+    text-decoration: center;
+  }
+
+  .about-intro {
+    background-color: #e5e5e5;
   }
 
   h3 {
