@@ -68,6 +68,7 @@ header {
   margin: 0;
   border: 2px solid #02163f;
   padding: 1em 3em;
+  display: inline-block;
   transition: .3s ease;
 }
 
