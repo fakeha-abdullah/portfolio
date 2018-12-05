@@ -64,6 +64,28 @@ header {
   text-transform: capitalize;
 }
 
+.intro-404-1 {
+  font-size: 5em;
+  text-align: center;
+  color: #c59c95;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 800;
+  line-height: 1.5em;
+}
+
+.intro-404-2 {
+  font-size: 2em;
+  text-align: center;
+  color: #02163f;
+  font-weight: 300;
+  text-transform: capitalize;
+}
+
+.p-404 {
+  text-align: left;
+}
+
 .reg-btn {
   margin: 0;
   border: 2px solid #c59c95;
@@ -83,7 +105,7 @@ header {
 }
 
 h1 {
-  color: #02163f;
+  color: #c59c95;
 }
 
 h3 {
